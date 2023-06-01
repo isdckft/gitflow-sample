@@ -1,4 +1,7 @@
 develop-ban van
-ez a features branch módosítás
+
+ez a features branch módosítás, javitom az 1.1.0
 ide próbálok egy 3.0.0 taget tenni
 features 2
+
+
