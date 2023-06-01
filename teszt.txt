@@ -1,2 +1,2 @@
 develop-ban van
-ez a features branch módosítás
+ez a features branch módosítás, javitom az 1.1.0
